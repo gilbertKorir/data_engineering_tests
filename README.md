@@ -4,7 +4,7 @@
 ---
 
 ## 🛠️ Topics Covered
-+ SQL → Joins, subqueries, window functions, CTEs
++ SQL → Joins, subqueries, Stored Procedures, Views, window functions, CTEs
 
 ## 1️⃣ Clone the Repository
 ```bash
@@ -17,7 +17,7 @@ cd data_engineering_tests
     If you’d like to improve the repo, feel free to fork it, create a new branch, and submit a pull request.
 
 ## 📧 Contact
-[GitHub:](https://github.com/gilbertKorir)
+[My GitHub Profile](https://github.com/gilbertKorir)
 
 ## License
   [MIT](https://opensource.org/license/mit)
