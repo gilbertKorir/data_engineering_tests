@@ -21,9 +21,9 @@
  	CREATE TABLE artdb.works(
 		work_id INT PRIMARY KEY,      
 		name VARCHAR(255),     
-		artist_id INT,         
+		artist_id INT REFERENCES artdb.artists(artist_id),        
 		style VARCHAR(100),            
-		museum_id INT              
+		museum_id INT REFERENCES artdb.museums(museum_id)
 	);
 
 --Create a table artdb.museums with the same structure as museum.csv.
